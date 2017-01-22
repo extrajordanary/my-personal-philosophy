@@ -1,7 +1,44 @@
 # about
-Always a WIP
+always a work in progress, my attempt at capturing my personal philosophy as it grows and changes over time with new experiences and information
 
-# conclusions so far
+# mission
+### action-oriented mission statement (feature request)
+My purpose in life is to share my knowledge effectively and empower others to do the same.
+
+### definition of success (acceptance test)
+First, some definition definitions:
+* my knowledge: anything that I have read/encountered/experienced/learned/discovered/thought that has passed through my life
+* share effectively: sharing to reach the largest possible intended audience and they understood the intended message
+* empower: to leave others with a sense of control, capability, and energy to act
+
+My mission is broad and lifelong, and my successes are ideally medium-to-major-sized and frequent. I expect my net positive impact on the world to take place via a compounding interest model. Each small win increases my probabilty of inspiring other small changes in myself and others that over my life will add up to a big gain for myself and others.
+
+Tiny wins:
+* Sharing content by others that have already summarized things that I agree with
+* Telling someone about something I'm less sure of but that they can look up themselves and that I think may help them
+* Connecting people in my network when asked
+
+Medium wins:
+* Showing someone how to use a new tool that will help them
+* Connecting people in my network unprompted, when I think they will both benefit
+* Sharing content by others along with my own thoughts summarized in brief
+* Indirect mentorship (larger groups, annonymously etc)
+
+Major wins:
+* Helping someone resolve a problem or frustration 
+* Writing out and sharing my own ideas in longer format than pure commentary
+* Helping to create new tools or materials that improve learning and/or knowledge sharing
+* Direct mentorship of others (in person, on-going, etc)
+
+### targeted domains to impact
+* Computer Science literacy and access
+* Educational pedagogy
+* Relationship building and maintanence
+* Minimalism
+* Self-defense skills from predatory advertising techniques
+
+# general thoughts
+### conclusions so far
 * If the person I am communicating with does not understand me, it is my failure, not theirs
 * All emotions are valid and useful, not all responses to emotions are valid and useful
 * Use of physical force should be applied as minimally as possible
