@@ -93,6 +93,17 @@ With minimalism and world impact in mind, I always try to be intentional about t
 * Limit impulse purchases, wait 30 days and re-evaluate the necessity of any purchase to allow for more distance from the direct effect of advertising
 
 ### financial
+Money is just a tool. I use this tool to meet my basic needs, and after that I use it to leverage for greater positive impact on the world. 
+
+Most of the things money can currently be spent on in the first world are useless for meeting this goal. Hoarding money for the future is also a waste of a resource. Living in the current capitalistic(-ish) system, I find myself torn between the need for enough future-planning to buffer against unforseen circumstances and my own likely blindspot as to the actual security of my financial future and the desire to apply all extra funds to good causes immediately.
+
+Currently, I don't donate on a regular basis to any shortlist of causes, primarily because I haven't sat down and done enough research to feel that I can make an educated and as-impactful-as-possible contribution while staying true to my core beliefs. As a result, I so far give opportunistically to smaller causes as they occur, such as supporting friends' fundraising for a cause, or, lately more often, direct financial help to young people from difficult backgrounds who are trying to get out in the world and do great things.
+
+Like Bill Gates researching and then focusing on the global eradication of malaria, I aspire to one day identifying a space in which I think I can help have a huge impact with the resources I have available.
+
+* I don't care much about my salary once my basic needs are met
+* I do care about fairness of compensation relative to peers and work done in the current cap
+* My perfect world has no such concept as income, robots would do all the essential work, and humans would spend time on creative activities
 
 ### career
 
