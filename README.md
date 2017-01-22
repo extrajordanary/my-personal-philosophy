@@ -1,5 +1,5 @@
 # about
-Always a WIP, to be updated as life happens.
+Always a WIP
 
 # conclusions so far
 * If the person I am communicating with does not understand me, it is my failure, not theirs
@@ -15,7 +15,24 @@ Always a WIP, to be updated as life happens.
 * The power of the Internet is it's capacity for enabling human idea sharing
 * In any information gathering context, an important question is always "Which voices are not yet being heard?"
 * Silence is often interpretted as acceptance and support whether we intend it or not
-
-# code philosophy
+* The ability to edit and curate incoming information is an increasingly important skill
+* Less is more once basic needs are met
+* Anthropegenic (human-escalated) climate change is real
+* We need to create tools that put modern data into human-comprehensible formats
+* We hurt future generations with our unchecked resource consumption
+* Facing the data and the reality of others can be painful but is necessary for self-improvement
+* Errors / bugs / failures are opportunities for learning
+* Re-framing situations as good/bad is a tool that can be abused like any other
+* We are always learning something, whether we realize it or not
+* Clear, honest communication is the best policy
+* Game theory indicates that deception, cheating, violence, etc will always be considered viable strategies in certain situations
+* I will always have blind spots that I must rely on others to point out to me
+* Those in a relationship are responsible for building and maintaining it to meet their shared needs
+* It is very hard to be honest with oneself about true strengths and weaknesses
+* Frequent exposure to different ideas is important to personal growth
+* Current forms marketing are often predatory and take advantage of human cognitive biases rather than relying on sound and fair reasoning
+* Keeping information to yourself for the purposes of increased personal gain at the expense of others is greedy
+* Keeping information to yourself until you have time to act on it first is lazy
+* Sharing information freely so that others can strengthen or improve the idea even more is better for everyone
 * Human readability and understanding is the most important feature of code after functionality
-* Commit messages are just as important as the code or they are a missed opportunity
+* Poor commit messages are a missed opportunity for communicating more clearly
