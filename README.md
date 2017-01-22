@@ -42,6 +42,62 @@ My mission is broad and lifelong, and my successes are ideally medium-to-major-s
 * Minimalism
 * Self-defense skills from predatory advertising techniques
 
+# goals
+### habits to build
+* daily
+  * meditation/reflection
+  * write || draw || photograph || create content
+  * exercise
+  * floss
+
+* weekly 
+  * publish content
+
+* monthly
+   * re-connect with a friend
+   
+* yearly
+  * update this personal philosophy and mission statement
+
+
+### skills to acquire/improve
+* Public speaking
+* Clear argument articulation
+* Allyship to communities of color
+* Not hating rainy days on principle
+* Playing a stringed instrument
+
+### relationships
+I strive to always communicate my feelings with honesty and personal vulnerability while leaving plenty of space for silence, disagreement, correction, and growth.
+
+We can only ever have the relationships we build together, so we must communicate as a team to discuss what we want to build, how and when to build it with the resources available, make plans to acquire new resources or skills together, etc.
+
+* Ideally, no relationship should end with any party being surprised at the situation
+* The health of a relationship can never be more than the health of the individuals in it
+* Relationships which are not mutally beneficial are defective
+
+### community
+I hope to always surround myself with passionate doers who share my values for positive change in the world. I also hope to maintain open channels and interaction to communities with varying degrees of overlap with my own in order to avoid the silo-effect and to encourage healthy flow of different ideas.
+
+* Communities are like massive polyamorous relationships without all the sexytime oxytocin to help people put up with each others' bullshit
+* Culture can just happen randomly with no one steering, or it can be intentionally focused on and built to meet member needs
+* Communities that encourage sharing and vulnerability are hard to create, but worth it
+
+### home
+With minimalism and world impact in mind, I always try to be intentional about the things and objects that I allow into my home. I believe that most purchases are failed attempts at grasping happiness and that as the clutter adds up, so does the disappointment about the failure to produce happiness. I can always get by with less, though I try to find a content balance between appreciation for modern technological advances in highly specific use-cases and the more multi-purpose functionality of traditional objects.
+
+* Functionality > aesthetics, though both is clearly ideal
+* Aesthetics may serve as it's own function after all other functional and resource-impact-mindfulness has been taken into consideration.
+* Reduce/avoid consumption of goods whose packaging or components will long outlive the use of the good itself
+* Repair > replacement
+* Limit impulse purchases, wait 30 days and re-evaluate the necessity of any purchase to allow for more distance from the direct effect of advertising
+
+### financial
+
+### career
+
+### hobby
+
 # general thoughts
 ### conclusions so far
 * If the person I am communicating with does not understand me, it is my failure, not theirs
