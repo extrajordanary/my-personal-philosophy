@@ -5,8 +5,8 @@ always a work in progress, my attempt at capturing my personal philosophy as it 
 ### action-oriented mission statement (feature request)
 My purpose in life is to share my knowledge effectively and empower others to do the same.
 
-### definition of success (acceptance test)
-First, some definition definitions:
+#### definition of success (acceptance test)
+First, some definitions:
 
 1. my knowledge
   * anything that I have read/encountered/experienced/learned/discovered/thought that has passed through my life
@@ -17,7 +17,7 @@ First, some definition definitions:
 
 My mission is broad and lifelong, and my successes are ideally medium-to-major-sized and frequent. I expect my net positive impact on the world to take place via a compounding interest model. Each small win increases my probabilty of inspiring other small changes in myself and others that over my life will add up to a big gain for myself and others.
 
-### example successes
+#### example successes
 1. tiny
   * Sharing content by others that have already summarized things that I agree with
   * Telling someone about something I'm less sure of but that they can look up themselves and that I think may help them
