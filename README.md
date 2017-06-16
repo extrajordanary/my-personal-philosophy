@@ -156,3 +156,8 @@ I really enjoy rock climbing (indoor bouldering mostly tbh), and I'm very into p
 * Sharing information freely so that others can strengthen or improve the idea even more is better for everyone
 * Human readability and understanding is the most important feature of code after functionality
 * Poor commit messages are a missed opportunity for communicating more clearly
+
+# references
+### great words and thoughts expressed by others
+* Jordan Peterson on speaking your truth, https://www.facebook.com/HereforLater/videos/656352387890966/
+- [ ] Find original source and link to transcript as well for readability
